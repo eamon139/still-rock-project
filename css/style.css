@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Do+Hyeon:100,200,300,400,500,600,700');
+
+/*---------------------------------------------------Color*/
+
+body{background-color: #676767;
+}
+
+
+/*---------------------------------------------------Header*/
+
+
+
+
+.hd-color{
+    font-family: 'Do Hyeon', sans-serif;
+    font-weight: 400;
+    background-color: #676767;
+    color: white;
+    text-align: center;
+    font-size: 60px;
+}
+
+/*---------------------------------------------------Nav*/
+
+nav ul {
+  list-style: none;
+  background-color: #4a4a4f;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+nav li {
+  font-size: 1.2em;
+  line-height: 40px;
+  height: 40px;
+  display: inline-block;
+  margin-left: 2.5%;
+}
+ 
+nav a {
+  text-decoration: none;
+  color: #fff;
+  display: block;
+}
+
+nav a:hover {
+  background-color: #fff;
+  color: #4a4a4f;
+}
+ 
+nav a:active {
+  background-color: #fff;
+  color: #444;
+  cursor: default;
+}
