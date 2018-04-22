@@ -3,6 +3,7 @@
 /*---------------------------------------------------Color*/
 
 body{background-color: #676767;
+text-align: center
 }
 
 
@@ -24,6 +25,10 @@ body{background-color: #676767;
     text-align: center;
 }
 
+h3{text-align: center;
+    padding: 20px;
+     text-transform: uppercase;
+}
 
 /*---------------------------------------------------Nav*/
 
@@ -59,3 +64,14 @@ nav a:active {
   color: #444;
   cursor: default;
 }
+
+
+
+/*---------------------------------------------------Gallery*/
+
+.bandmpic{
+    float: left;
+    width: 10%;
+    margin-left: 5%;
+}
+
