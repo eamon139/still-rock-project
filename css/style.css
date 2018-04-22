@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Do+Hyeon:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Righteous');
 
 /*---------------------------------------------------Color*/
 
@@ -9,16 +9,21 @@ body{background-color: #676767;
 /*---------------------------------------------------Header*/
 
 
-
-
-.hd-color{
-    font-family: 'Do Hyeon', sans-serif;
-    font-weight: 400;
-    background-color: #676767;
-    color: white;
+.bandname{
+    font-family: 'Permanent Marker', cursive;
+    font-size:100px;
+    margin-top: 50px;
+    color: #ffffff;
     text-align: center;
-    font-size: 60px;
 }
+
+.promo{
+    font-family: 'Righteous', cursive;
+    color: #ffb366;
+    font-size: 20px;
+    text-align: center;
+}
+
 
 /*---------------------------------------------------Nav*/
 
