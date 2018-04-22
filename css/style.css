@@ -40,7 +40,7 @@ nav li {
   line-height: 40px;
   height: 40px;
   display: inline-block;
-  margin-left: 2.5%;
+  margin-left: 5%;
 }
  
 nav a {
@@ -50,8 +50,8 @@ nav a {
 }
 
 nav a:hover {
-  background-color: #fff;
-  color: #4a4a4f;
+  background-color: #676767;
+  color: #ffb366;
 }
  
 nav a:active {
