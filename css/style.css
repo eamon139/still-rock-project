@@ -69,10 +69,12 @@ nav a:active {
 
 /*---------------------------------------------------Gallery*/
 
-.bandmpic{
-    text-align: center;
-    width: 10%;
-    margin-left: 5%;
+
+
+.bmm-text{text-align: center;
+          color: #ffb366;
+          text-decoration: underline;
+          font-family: 'Righteous', cursive;
 }
 
 
