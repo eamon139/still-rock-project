@@ -1,11 +1,20 @@
 @import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Righteous');
 
-/*---------------------------------------------------Color*/
+/*---------------------------------------------------Color and page-headdings*/
 
 body{background-color: #676767;
 text-align: center
 }
 
+
+.link-color{color: #ffb366;} 
+
+
+
+.page-head{color: white;
+            font-size: 32px;
+            text-decoration: underline;
+}
 
 /*---------------------------------------------------Header*/
 
@@ -28,7 +37,7 @@ text-align: center
 h3{text-align: center;
     padding: 20px;
      text-transform: uppercase;
-    
+     
 }
 
 
@@ -101,7 +110,7 @@ nav ul {
 }
 
 nav li {
-  font-size: 1.2em;
+  font-size: 2em;
   line-height: 40px;
   height: 40px;
   display: inline-block;
@@ -144,6 +153,12 @@ nav a:active {
 
 /*---------------------------------------------------media*/
 
+.audio-title{font-size: 24px;
+            color: #ffb366;
+}
+
+
+
 .center-tb2 {
     width:70%; 
     margin-left:15%; 
@@ -168,6 +183,9 @@ left: 0;
 width: 80%;
 height: 100%;
 }
+
+
+
 /*---------------------------------------------------events*/
 
 
@@ -190,13 +208,13 @@ table tr{
 
 .table{margin: 75px;
     padding: 50px;
-    border-color: #ffb366;
+    
     
 }
 
 /*---------------------------------------------------shop*/
 
-
+.new-album{margin-bottom: 50px}
 
 .Albumscovers{float: left;
                 
