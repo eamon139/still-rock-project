@@ -28,11 +28,28 @@ text-align: center
 h3{text-align: center;
     padding: 20px;
      text-transform: uppercase;
+    
 }
 
-/*---------------------------------------------------Booking*/
 
 
+    
+
+
+/*---------------------------------------------------main pic*/
+.responsive {
+    width: 100%;
+    height: auto;
+}
+.opentext{margin-top: 50px;
+    margin-left 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+    
+}
 
 /*---------------------------------------------------footer*/
 
