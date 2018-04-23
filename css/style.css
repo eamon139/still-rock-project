@@ -118,6 +118,10 @@ nav a:active {
           font-family: 'Righteous', cursive;
 }
 
+.road-pic{ padding: 20px;
+    
+}
+
 
 /*---------------------------------------------------media*/
 
@@ -138,3 +142,29 @@ left: 0;
 width: 100%;
 height: 100%;
 }
+/*---------------------------------------------------events*/
+
+
+.ticket-color{color: #ffb366;
+}
+table th {
+    color: white;
+    background-color: #4a4a4f;
+    font-size: 26px;
+    text-align: center;
+}
+
+table tr{
+    font-size: 20px;
+}
+
+#clickableAwesomeFont {
+     cursor: pointer
+}
+
+.table{margin: 50px;
+    padding: 50px;
+    border-color: #ffb366;
+    
+}
+
