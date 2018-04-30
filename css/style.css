@@ -167,6 +167,7 @@ nav a:active {
 
 
 
+
 .video-container {
   margin: 5%;
 position: relative;
@@ -182,12 +183,17 @@ top: 0;
 left: 0;
 width: 80%;
 height: 100%;
+
 }
 
-#palyer-table{width: 85%;
+
+#palyer-table{width: 95%;
 margin-left: auto;
 margin-right: auto;
 }
+
+
+
 
 /*---------------------------------------------------events*/
 
