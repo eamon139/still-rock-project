@@ -181,7 +181,7 @@ padding-top: 30px; height: 0; overflow: hidden;
 position: absolute;
 top: 0;
 left: 0;
-width: 80%;
+width: 50%;
 height: 100%;
 
 }
@@ -195,6 +195,7 @@ margin-right: auto;
 .vid-pad{margin: 8%;
     
 } 
+
 
 
 /*---------------------------------------------------events*/
@@ -240,3 +241,5 @@ display:inline-block
     margin-right: auto;
 
 }
+
+.Albumscovers_txt{color: #ff944d;}
