@@ -151,6 +151,23 @@ nav a:active {
 }
 
 
+
+
+.bmimgbig {
+  border: none;
+  margin: 0 auto;
+}
+
+.bmimgbig:hover {
+   transform: scale(1.9);
+   transition: all 0.7s;
+   -webkit-transform: scale(1.9);
+   -moz-transform: scale(1.9);
+   -o-transform: scale(1.9);
+  -webkit-transition: all 0.7s;
+}
+
+
 /*---------------------------------------------------media*/
 
 .audio-title{font-size: 24px;
