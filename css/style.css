@@ -167,6 +167,26 @@ nav a:active {
   -webkit-transition: all 0.7s;
 }
 
+/*---------------------------------------------------Gallery bio*/
+
+
+#dfbio:hover  {
+  opacity: 0.3;
+}
+
+#dcbio:hover  {
+  opacity: 0.3;
+}
+
+#igbio:hover  {
+  opacity: 0.3;
+}
+
+#nsbio:hover  {
+  opacity: 0.3;
+}
+
+
 
 /*---------------------------------------------------media*/
 
